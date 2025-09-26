@@ -1,0 +1,162 @@
+[
+  {
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567890",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567891",
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90210",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567892",
+    "address": {
+      "street": "789 Pine St",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567893",
+    "address": {
+      "street": "101 Maple Dr",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77001",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "admin",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "David Wilson",
+    "email": "david.wilson@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567894",
+    "address": {
+      "street": "202 Elm St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "Lisa Miller",
+    "email": "lisa.miller@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567895",
+    "address": {
+      "street": "303 Cedar Ln",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "19101",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "Robert Taylor",
+    "email": "robert.taylor@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567896",
+    "address": {
+      "street": "404 Birch Rd",
+      "city": "San Antonio",
+      "state": "TX",
+      "zipCode": "78201",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  },
+  {
+    "name": "Jennifer Anderson",
+    "email": "jennifer.anderson@example.com",
+    "password": "password123",
+    "phoneNumber": "+1234567897",
+    "address": {
+      "street": "505 Spruce Ave",
+      "city": "San Diego",
+      "state": "CA",
+      "zipCode": "92101",
+      "country": "USA"
+    },
+    "preferences": {
+      "language": "en",
+      "theme": "light"
+    },
+    "role": "user",
+    "isActive": true,
+    "emailVerified": true
+  }
+]

@@ -1,0 +1,94 @@
+/* Light Theme for Farmisian E-commerce Website */
+
+:root {
+    --theme-bg: #ffffff;
+    --theme-text: #333333;
+    --theme-header-bg: #ffffff;
+    --theme-footer-bg: #2c3e50;
+    --theme-card-bg: #ffffff;
+    --theme-border: #e1e8ed;
+    --theme-hover-bg: #f8f9fa;
+    --theme-shadow: rgba(0, 0, 0, 0.1);
+    --theme-input-bg: #ffffff;
+    --theme-input-text: #333333;
+    --theme-input-border: #ced4da;
+}
+
+body.light-theme {
+    background-color: var(--theme-bg);
+    color: var(--theme-text);
+}
+
+/* Header */
+.light-theme .site-header {
+    background-color: var(--theme-header-bg);
+    border-bottom: 1px solid var(--theme-border);
+}
+
+/* Footer */
+.light-theme .site-footer {
+    background-color: var(--theme-footer-bg);
+}
+
+/* Cards */
+.light-theme .product-card,
+.light-theme .feature-card,
+.light-theme .testimonial-card {
+    background-color: var(--theme-card-bg);
+    border: 1px solid var(--theme-border);
+}
+
+/* Buttons */
+.light-theme .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.light-theme .btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+/* Forms */
+.light-theme .form-control {
+    background-color: var(--theme-input-bg);
+    color: var(--theme-input-text);
+    border: 1px solid var(--theme-input-border);
+}
+
+.light-theme .form-control:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.25);
+}
+
+/* Navigation */
+.light-theme .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.light-theme .navbar-light .navbar-nav .nav-link:hover {
+    color: #28a745;
+}
+
+/* Tables */
+.light-theme table {
+    background-color: var(--theme-card-bg);
+}
+
+.light-theme table th,
+.light-theme table td {
+    border-color: var(--theme-border);
+}
+
+/* Alerts */
+.light-theme .alert {
+    border: none;
+    border-radius: 0.375rem;
+}
+
+/* Modals */
+.light-theme .modal-content {
+    background-color: var(--theme-card-bg);
+    border: none;
+    box-shadow: 0 0.5rem 1rem var(--theme-shadow);
+}

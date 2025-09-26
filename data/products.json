@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Organic Apples",
+    "price": 1.99,
+    "originalPrice": 2.49,
+    "description": "Fresh organic apples from local farms, rich in fiber and vitamin C. Perfect for snacking or baking.",
+    "category": "Fruits",
+    "imageUrl": "/images/apple.jpg",
+    "rating": 4.5,
+    "reviews": 128,
+    "inStock": true
+  },
+  {
+    "name": "Farm Fresh Milk",
+    "price": 2.50,
+    "originalPrice": 3.25,
+    "description": "Whole milk from grass-fed cows, rich in calcium and vitamin D. Perfect for drinking or cooking.",
+    "category": "Dairy",
+    "imageUrl": "/images/milk.jpg",
+    "rating": 4.8,
+    "reviews": 96,
+    "inStock": true
+  },
+  {
+    "name": "Artisan Bread",
+    "price": 3.25,
+    "originalPrice": 4.00,
+    "description": "Freshly baked whole grain bread made with organic flour and natural yeast. Great for sandwiches or toast.",
+    "category": "Bakery",
+    "imageUrl": "/images/bread.jpg",
+    "rating": 4.6,
+    "reviews": 74,
+    "inStock": true
+  },
+  {
+    "name": "Free Range Eggs",
+    "price": 3.99,
+    "originalPrice": 4.99,
+    "description": "Large brown eggs from free-range hens, packed with protein and essential nutrients. Perfect for breakfast or baking.",
+    "category": "Dairy",
+    "imageUrl": "/images/eggs.jpg",
+    "rating": 4.9,
+    "reviews": 142,
+    "inStock": true
+  },
+  {
+    "name": "Organic Carrots",
+    "price": 1.49,
+    "description": "Fresh organic carrots, washed and ready to eat. Rich in beta-carotene and fiber. Great for snacking or cooking.",
+    "category": "Vegetables",
+    "imageUrl": "/images/carrots.jpg",
+    "rating": 4.3,
+    "reviews": 87,
+    "inStock": true
+  },
+  {
+    "name": "Wild Caught Salmon",
+    "price": 12.99,
+    "description": "Fresh wild caught salmon fillets, rich in omega-3 fatty acids and protein. Perfect for grilling or baking.",
+    "category": "Seafood",
+    "imageUrl": "/images/salmon.jpg",
+    "rating": 4.7,
+    "reviews": 63,
+    "inStock": true
+  },
+  {
+    "name": "Organic Spinach",
+    "price": 2.25,
+    "description": "Fresh organic baby spinach leaves, packed with iron and vitamins. Perfect for salads or cooking.",
+    "category": "Vegetables",
+    "imageUrl": "/images/spinach.jpg",
+    "rating": 4.4,
+    "reviews": 52,
+    "inStock": true
+  },
+  {
+    "name": "Honey Crisp Apples",
+    "price": 2.99,
+    "description": "Sweet and crisp Honey Crisp apples, perfect for snacking or baking. Known for their juiciness and flavor.",
+    "category": "Fruits",
+    "imageUrl": "/images/honeycrisp.jpg",
+    "rating": 4.8,
+    "reviews": 115,
+    "inStock": true
+  },
+  {
+    "name": "Organic Bananas",
+    "price": 0.99,
+    "description": "Ripe organic bananas, rich in potassium and natural sugars. Perfect for snacking or smoothies.",
+    "category": "Fruits",
+    "imageUrl": "/images/banana.jpg",
+    "rating": 4.6,
+    "reviews": 201,
+    "inStock": true
+  },
+  {
+    "name": "Greek Yogurt",
+    "price": 4.50,
+    "description": "Creamy Greek yogurt, high in protein and probiotics. Perfect for breakfast or as a healthy snack.",
+    "category": "Dairy",
+    "imageUrl": "/images/yogurt.jpg",
+    "rating": 4.7,
+    "reviews": 89,
+    "inStock": true
+  },
+  {
+    "name": "Organic Strawberries",
+    "price": 3.99,
+    "description": "Sweet organic strawberries, packed with antioxidants and vitamin C. Perfect for desserts or snacking.",
+    "category": "Fruits",
+    "imageUrl": "/images/strawberry.jpg",
+    "rating": 4.8,
+    "reviews": 156,
+    "inStock": true
+  },
+  {
+    "name": "Organic Grapes",
+    "price": 2.99,
+    "description": "Juicy organic grapes, rich in antioxidants and natural sugars. Perfect for snacking or adding to salads.",
+    "category": "Fruits",
+    "imageUrl": "/images/grapes.jpg",
+    "rating": 4.5,
+    "reviews": 94,
+    "inStock": true
+  },
+  {
+    "name": "Organic Cheese",
+    "price": 5.99,
+    "originalPrice": 7.49,
+    "description": "Creamy organic cheese made from grass-fed cow's milk. Perfect for sandwiches or cooking.",
+    "category": "Dairy",
+    "imageUrl": "/images/cheese.jpg",
+    "rating": 4.6,
+    "reviews": 78,
+    "inStock": true
+  },
+  {
+    "name": "Organic Butter",
+    "price": 3.49,
+    "description": "Rich organic butter made from grass-fed cow's milk. Perfect for baking or spreading on bread.",
+    "category": "Dairy",
+    "imageUrl": "/images/butter.jpg",
+    "rating": 4.7,
+    "reviews": 65,
+    "inStock": true
+  },
+  {
+    "name": "Organic Rice",
+    "price": 2.99,
+    "description": "Premium organic rice, a staple grain rich in carbohydrates. Perfect as a side dish or base for meals.",
+    "category": "Grains",
+    "imageUrl": "/images/rice.jpg",
+    "rating": 4.4,
+    "reviews": 112,
+    "inStock": true
+  },
+  {
+    "name": "Organic Pasta",
+    "price": 1.99,
+    "description": "Delicious organic pasta made from durum wheat semolina. Perfect for a variety of Italian dishes.",
+    "category": "Grains",
+    "imageUrl": "/images/pasta.jpg",
+    "rating": 4.3,
+    "reviews": 87,
+    "inStock": true
+  },
+  {
+    "name": "Organic Olive Oil",
+    "price": 8.99,
+    "originalPrice": 11.99,
+    "description": "Extra virgin organic olive oil, rich in healthy fats and antioxidants. Perfect for cooking or salad dressing.",
+    "category": "Pantry",
+    "imageUrl": "/images/olive_oil.jpg",
+    "rating": 4.9,
+    "reviews": 143,
+    "inStock": true
+  },
+  {
+    "name": "Organic Cereal",
+    "price": 4.49,
+    "description": "Nutritious organic cereal made with whole grains and natural ingredients. Perfect for a healthy breakfast.",
+    "category": "Breakfast",
+    "imageUrl": "/images/cereal.jpg",
+    "rating": 4.2,
+    "reviews": 98,
+    "inStock": true
+  },
+  {
+    "name": "Organic Quinoa",
+    "price": 5.99,
+    "description": "Protein-rich organic quinoa, a complete protein source with all essential amino acids. Perfect for salads or as a side dish.",
+    "category": "Grains",
+    "imageUrl": "/images/quinoa.jpg",
+    "rating": 4.6,
+    "reviews": 76,
+    "inStock": true
+  },
+  {
+    "name": "Organic Kiwi",
+    "price": 1.49,
+    "description": "Tangy organic kiwi fruit, rich in vitamin C and fiber. Perfect for snacking or adding to fruit salads.",
+    "category": "Fruits",
+    "imageUrl": "/images/kiwi.jpg",
+    "rating": 4.5,
+    "reviews": 67,
+    "inStock": true
+  }
+]

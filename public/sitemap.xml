@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>http://localhost/farmisian_modern/public/index.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/farmisian_modern/public/index.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="http://localhost/farmisian_modern/public/index.php?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="mr" href="http://localhost/farmisian_modern/public/index.php?lang=mr"/>
+  </url>
+  
+  <!-- Products Pages -->
+  <url>
+    <loc>http://localhost/farmisian_modern/public/products.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost/farmisian_modern/public/products.php?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="http://localhost/farmisian_modern/public/products.php?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="mr" href="http://localhost/farmisian_modern/public/products.php?lang=mr"/>
+  </url>
+  
+  <url>
+    <loc>http://localhost/farmisian_modern/public/products.php?category=groceries</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/farmisian_modern/public/products.php?category=grain</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/farmisian_modern/public/products.php?category=pulses</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/farmisian_modern/public/products.php?category=alcohol</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Login and Signup -->
+  <url>
+    <loc>http://localhost/farmisian_modern/public/login.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/farmisian_modern/public/signup.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Cart -->
+  <url>
+    <loc>http://localhost/farmisian_modern/public/cart.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- About and Contact -->
+  <url>
+    <loc>http://localhost/farmisian_modern/public/about.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/farmisian_modern/public/contact.php</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>

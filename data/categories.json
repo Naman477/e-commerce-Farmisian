@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "name": "Fruits",
+        "description": "Fresh seasonal fruits from local farms",
+        "image_url": "fruits.jpg"
+    },
+    {
+        "_id": "2",
+        "name": "Vegetables",
+        "description": "Organic vegetables grown locally",
+        "image_url": "vegetables.jpg"
+    },
+    {
+        "_id": "3",
+        "name": "Dairy",
+        "description": "Milk, cheese, and other dairy products",
+        "image_url": "dairy.jpg"
+    },
+    {
+        "_id": "4",
+        "name": "Bakery",
+        "description": "Freshly baked breads and pastries",
+        "image_url": "bakery.jpg"
+    },
+    {
+        "_id": "5",
+        "name": "Meat",
+        "description": "Locally sourced meat products",
+        "image_url": "meat.jpg"
+    },
+    {
+        "_id": "6",
+        "name": "Seafood",
+        "description": "Fresh fish and seafood",
+        "image_url": "seafood.jpg"
+    },
+    {
+        "_id": "7",
+        "name": "Grains",
+        "description": "Organic grains and cereals",
+        "image_url": "grains.jpg"
+    },
+    {
+        "_id": "8",
+        "name": "Pulses",
+        "description": "Fresh and dried pulses",
+        "image_url": "pulses.jpg"
+    }
+]
